@@ -1,0 +1,14 @@
+$font-exo: 'Exo 2.0', sans-serif;
+$font-header-title: 100 3.6rem / 1 'Exo 2.0', sans-serif;
+
+.header {
+    width: 100%;
+}
+.header__inner {
+    margin: 4.5rem auto 2.5rem auto;
+}
+.header__title {
+    font: $font-header-title;
+    color: #8d8d8d;
+    text-align: center;
+}

@@ -1,0 +1,9 @@
+.main {
+    width: 100%;
+}
+.main__inner {
+    width: 100%;
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    -ms-grid-columns: 112.25em 10rem 112.25em 10rem 112.25em;
+}
