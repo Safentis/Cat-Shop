@@ -6,7 +6,7 @@ const devWebpackConfig = merge(baseWebpackConfig, {
         mode: 'development',
         devtool: '#cheap-module-eval-source-map',
         devServer: {
-            contentBase: `./src/`,
+            contentBase: `./dist/`,
             compress: true,
             port: 8081,
             hot: true,
