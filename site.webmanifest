@@ -18,5 +18,5 @@
     "display": "standalone",
     "orientation": "landscape",
     "start_url": ".",
-    "scope": "/"
+    "scope": "/dist/"
 }
